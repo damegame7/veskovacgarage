@@ -96,10 +96,10 @@
         <section id="dienstleistungen">
             <h2>Unsere Dienstleistungen</h2>
             <ul>
-                <li>Allgemeine Fahrzeugwartung</li>
-                <li>Reparaturen aller Art</li>
+                <li>MFK Bereitstellung</li>
+                <li>Reparaturen und Service aller Art und Marken</li>
                 <li>Ersatzteilbeschaffung</li>
-                <li>Pneuservice (Reifenwechsel & Auswuchten)</li>
+                <li>Pneuservice </li>
             </ul>
         </section>
 
@@ -108,7 +108,7 @@
             <div class="contact-info">
                 <p><strong>Adresse:</strong> Fluhmühlerain 1a, 6015 Luzern, Schweiz</p>
                 <p><strong>Telefon:</strong> 041 559 00 96</p>
-                <p><strong>E-Mail:</strong> <a href="mailto:info@veskovac-garage.ch">info@veskovac-garage.ch</a></p>
+                <p><strong>E-Mail:</strong> veskovac-garage@sunrise.ch</p>
                 <p><strong>Öffnungszeiten:</strong></p>
                 <ul>
                     <li>Montag - Freitag: 08:00 – 18:30</li>
